@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "430FFYCDl4nmvZliPP2sciSRPxO6J3Tag+FegHoo4E8=",
+  "Source": "AppAcademy.Api",
+  "BasePath": "_content/AppAcademy.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AppAcademy.Api\\wwwroot",
+      "Source": "AppAcademy.Api",
+      "ContentRoot": "C:\\Users\\Owner\\Desktop\\AppAcademy\\AppAcademy.Api\\wwwroot\\",
+      "BasePath": "_content/AppAcademy.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
