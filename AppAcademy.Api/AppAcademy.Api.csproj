@@ -20,8 +20,4 @@
     <ProjectReference Include="..\AppAcademy.Application\AppAcademy.Application.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\uploads\images\" />
-  </ItemGroup>
-
 </Project>

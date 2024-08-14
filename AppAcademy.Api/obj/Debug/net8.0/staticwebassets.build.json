@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "430FFYCDl4nmvZliPP2sciSRPxO6J3Tag+FegHoo4E8=",
+  "Hash": "3LW4x+5XizdAq+5QIpKeIicwe/8ZGNLEmTqfHBmnZVw=",
   "Source": "AppAcademy.Api",
   "BasePath": "_content/AppAcademy.Api",
   "Mode": "Default",
@@ -15,5 +15,82 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Owner\\Desktop\\AppAcademy\\AppAcademy.Api\\wwwroot\\uploads\\images\\216b4f5f-d18c-4abf-8364-ef49189df8004f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg",
+      "SourceId": "AppAcademy.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Owner\\Desktop\\AppAcademy\\AppAcademy.Api\\wwwroot\\",
+      "BasePath": "_content/AppAcademy.Api",
+      "RelativePath": "uploads/images/216b4f5f-d18c-4abf-8364-ef49189df8004f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\216b4f5f-d18c-4abf-8364-ef49189df8004f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Owner\\Desktop\\AppAcademy\\AppAcademy.Api\\wwwroot\\uploads\\images\\2bf3ff4d-fa99-44a6-8e03-3c3c899507194fcafb2d-2e27-41e1-9be1-a8969627785c.png",
+      "SourceId": "AppAcademy.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Owner\\Desktop\\AppAcademy\\AppAcademy.Api\\wwwroot\\",
+      "BasePath": "_content/AppAcademy.Api",
+      "RelativePath": "uploads/images/2bf3ff4d-fa99-44a6-8e03-3c3c899507194fcafb2d-2e27-41e1-9be1-a8969627785c.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\2bf3ff4d-fa99-44a6-8e03-3c3c899507194fcafb2d-2e27-41e1-9be1-a8969627785c.png"
+    },
+    {
+      "Identity": "C:\\Users\\Owner\\Desktop\\AppAcademy\\AppAcademy.Api\\wwwroot\\uploads\\images\\c73763f6-0225-45a1-a758-a0b97c3653b94f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg",
+      "SourceId": "AppAcademy.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Owner\\Desktop\\AppAcademy\\AppAcademy.Api\\wwwroot\\",
+      "BasePath": "_content/AppAcademy.Api",
+      "RelativePath": "uploads/images/c73763f6-0225-45a1-a758-a0b97c3653b94f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\c73763f6-0225-45a1-a758-a0b97c3653b94f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Owner\\Desktop\\AppAcademy\\AppAcademy.Api\\wwwroot\\uploads\\images\\d5296b36-62a1-4e5a-9f25-5a9b136fc2f24f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg",
+      "SourceId": "AppAcademy.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Owner\\Desktop\\AppAcademy\\AppAcademy.Api\\wwwroot\\",
+      "BasePath": "_content/AppAcademy.Api",
+      "RelativePath": "uploads/images/d5296b36-62a1-4e5a-9f25-5a9b136fc2f24f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\d5296b36-62a1-4e5a-9f25-5a9b136fc2f24f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg"
+    }
+  ]
 }

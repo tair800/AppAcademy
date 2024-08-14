@@ -15,3 +15,4 @@ C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\bin\Debug\net8.0\AppAca
 C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Core.pdb
 C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.csproj.AssemblyReference.cache
 C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.csproj.CopyComplete
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.sourcelink.json

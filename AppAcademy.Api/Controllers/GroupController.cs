@@ -1,5 +1,4 @@
 ﻿using AppAcademy.Application.Dtos.GroupDtos;
-using AppAcademy.Application.Exceptions;
 using AppAcademy.Application.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
@@ -17,27 +16,22 @@ namespace AppAcademy.Api.Controllers
         }
 
         [HttpPost("")]
-        public IActionResult Create(GroupCreateDto groupCreateDto)
+        public async Task<IActionResult> Create(GroupCreateDto groupCreateDto)
         {
-            try
-            {
-                return Ok(_groupService.Create(groupCreateDto));
-            }
-            catch (DublicateEntityException ex)
-            {
-                return BadRequest(ex.Message);
-            }
-            catch (Exception)
-            {
-                return BadRequest("Xeta bash verdi");
-            }
+            return Ok(await _groupService.Create(groupCreateDto));
         }
 
 
         [HttpGet("")]
-        public IActionResult Get()
+        public async Task<IActionResult> Get()
         {
-            return Ok(_groupService.GetAll());
+            return Ok(await _groupService.GetAll());
+        }
+        [HttpGet("{name}")]
+        public async Task<IActionResult> Get(string name)
+        {
+            var data = await _groupService.GetOne(name);
+            return Ok(data.Students[0].Name);
         }
     }
 }

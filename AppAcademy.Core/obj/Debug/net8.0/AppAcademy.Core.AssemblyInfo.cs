@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppAcademy.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa82db296e2c5cce1696344a9c7962f720b45c5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppAcademy.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppAcademy.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -15,3 +15,4 @@ C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Data\obj\Debug\net8.0\refint\AppAca
 C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Data\obj\Debug\net8.0\AppAcademy.Data.pdb
 C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Data\obj\Debug\net8.0\AppAcademy.Data.genruntimeconfig.cache
 C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Data\obj\Debug\net8.0\ref\AppAcademy.Data.dll
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Data\obj\Debug\net8.0\AppAcademy.Data.sourcelink.json

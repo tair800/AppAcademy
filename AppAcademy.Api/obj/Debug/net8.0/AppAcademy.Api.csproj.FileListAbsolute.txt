@@ -147,3 +147,5 @@ C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Api\bin\Debug\net8.0\MicroElements.
 C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Api\bin\Debug\net8.0\MicroElements.Swashbuckle.FluentValidation.dll
 C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Api\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Api\bin\Debug\net8.0\AppAcademy.Api.staticwebassets.runtime.json
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Api\obj\Debug\net8.0\AppAcademy.Api.sourcelink.json
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

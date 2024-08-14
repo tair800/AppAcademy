@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Owner\\Desktop\\AppAcademy\\AppAcademy.Api\\wwwroot\\uploads\\images\\216b4f5f-d18c-4abf-8364-ef49189df8004f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\216b4f5f-d18c-4abf-8364-ef49189df8004f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\Desktop\\AppAcademy\\AppAcademy.Api\\wwwroot\\uploads\\images\\2bf3ff4d-fa99-44a6-8e03-3c3c899507194fcafb2d-2e27-41e1-9be1-a8969627785c.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\2bf3ff4d-fa99-44a6-8e03-3c3c899507194fcafb2d-2e27-41e1-9be1-a8969627785c.png"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\Desktop\\AppAcademy\\AppAcademy.Api\\wwwroot\\uploads\\images\\c73763f6-0225-45a1-a758-a0b97c3653b94f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\c73763f6-0225-45a1-a758-a0b97c3653b94f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\Desktop\\AppAcademy\\AppAcademy.Api\\wwwroot\\uploads\\images\\d5296b36-62a1-4e5a-9f25-5a9b136fc2f24f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\d5296b36-62a1-4e5a-9f25-5a9b136fc2f24f5e9e1a-b289-4057-a922-7ae88f31ad30.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AppAcademy.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AppAcademy.Api.props",
+      "PackagePath": "build\\AppAcademy.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AppAcademy.Api.props",
+      "PackagePath": "buildMultiTargeting\\AppAcademy.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AppAcademy.Api.props",
+      "PackagePath": "buildTransitive\\AppAcademy.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

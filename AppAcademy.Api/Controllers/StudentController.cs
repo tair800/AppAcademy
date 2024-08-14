@@ -18,14 +18,12 @@ namespace AppAcademy.Api.Controllers
         [HttpPost("")]
         public IActionResult Create(StudentCreateDto studentCreateDto)
         {
-            try
-            {
-                return Ok(_studentService.Create(studentCreateDto));
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            return Ok(_studentService.Create(studentCreateDto));
+        }
+        [HttpGet("")]
+        public IActionResult Get()
+        {
+            return Ok(_studentService.GetAll());
         }
     }
 }

@@ -27,10 +27,10 @@ namespace AppAcademy.Application.Services.Implementations
                 .FirstOrDefault(g => g.Id == studentCreateDto.GroupId);
 
             if (group is null)
-                throw new NotFoundEntityException("Given GroupId doesnt exist");
+                throw new CustomExceptions(404, "Id", "Given group id not found");
 
             if (group.Students.Count() >= group.Limit)
-                throw new LimitEntityException("Limit is reached in group");
+                throw new CustomExceptions(400, "Limit", "Group is full");
 
             var student = _mapper.Map<Student>(studentCreateDto);
 
@@ -39,6 +39,11 @@ namespace AppAcademy.Application.Services.Implementations
 
             return student.Id;
 
+        }
+
+        public List<StudentReturnDto> GetAll()
+        {
+            return _mapper.Map<List<StudentReturnDto>>(_context.Students.Include("Group").ToList());
         }
     }
 }
